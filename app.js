@@ -9,3 +9,5 @@ const mobileMenu = () => {
 
 //event listener
 menu.addEventListener('click', mobileMenu);
+
+// Time Stamp - 1:46:15 (adding JS Smooth Scroll)
